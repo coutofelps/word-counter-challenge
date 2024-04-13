@@ -22,19 +22,6 @@ Explain how to start and use the project. For example:
 
 This will start the development server, and you can view the project in the browser at `http://localhost:3000`.
 
-## Contribution
-
-Explain how others can contribute to your project. This may include instructions on how to:
-
-- Open issues to report bugs or request new features.
-- Create pull requests to propose changes to the code.
-
-## License
-
-Specify the license under which the project is being made available. For example:
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-Provide contact information for the project developers, such as email or links to social media.
+For any inquiries or collaborations, feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/felps-couto/).
